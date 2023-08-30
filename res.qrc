@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>cannon-shot-6153.mp3</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>bullet.png</file>
+        <file>enemy.png</file>
+        <file>PngItem_618194.png</file>
+    </qresource>
+</RCC>
